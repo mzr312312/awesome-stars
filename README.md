@@ -127,8 +127,3 @@
 * **[SSR-V2ray-Trojan](https://github.com/hwanz/SSR-V2ray-Trojan)** - 机场推荐与评测资源。
 * **[use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW)** - 在特定网络环境下使用 OpenAI 服务的方法。
 * **[LanguageBreak](https://github.com/notmarek/LanguageBreak)** - Kindle 的越狱工具。
-### 下一步建议
-
-这份列表中有很多关于 **将非结构化数据（视频、PDF）转化为结构化笔记** 的工具。
-
-如果您感兴趣，我可以为您提供一个 **Python 自动化脚本的思路**，将 `Whisper` (语音转文字) 的输出结果，通过 `MinerU` 或简单的文本处理，自动格式化为适合导入 `Trilium` 或 `Obsidian` 的 Markdown 格式？
