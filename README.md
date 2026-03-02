@@ -53,6 +53,7 @@
 
 ## 🛠️ Dev Tools (开发效能与工具)
 
+* **[design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)** - 提供各种格式（例如 PSD、Sketch、Figma 等）的现代 UI 组件的网站和资源。它们非常适合为 Web 组件/UI 设计寻找灵感。
 * **[ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** - 为多平台构建专业 UI/UX 提供设计智能的 AI 技能库。
 * **[ui-ux-pro-max-skill-cn](https://github.com/bbylw/ui-ux-pro-max-skill-cn)** - 上述项目的官方中文翻译与本地化版本。
 * **[mermaid](https://github.com/mermaid-js/mermaid)** - 使用类似 Markdown 的文本语法生成流程图、时序图等图表。
